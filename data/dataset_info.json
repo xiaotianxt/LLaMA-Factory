@@ -1,4 +1,7 @@
 {
+  "treehole": {
+    "file_name": "treehole.json"
+  },
   "identity": {
     "file_name": "identity.json"
   },
